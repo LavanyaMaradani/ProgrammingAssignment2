@@ -1,6 +1,6 @@
 ## caching and getting the inverse of a matrix
 
-## creating matrix and caching it's inverse
+## creating matrix and caching it's inverse...
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
